@@ -19,7 +19,7 @@ Structure project, you can run:
 
 Online warehouse
 
-`https://github.com/visizhangyang/react-ts-demo`
+`https://github.com/visizhangyang/react-demo`
 
 
 Online link:
